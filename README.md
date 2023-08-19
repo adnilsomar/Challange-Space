@@ -1,4 +1,4 @@
-# :green_circle: Challenge Expllore Sem Límites. :sunflower:
+# :green_circle: Explore Sem Límites. :sunflower:
 ### **Treinando conceitos de HTML, CSS, JavaScript.**
 
 
