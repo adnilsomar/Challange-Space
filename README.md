@@ -1,5 +1,5 @@
 # :green_circle: Challenge Expllore Sem Límites. :sunflower:
-### **Desafio da Rocketseat para treinar conceitos de HTML, CSS, JavaScript.**
+### **Treinando conceitos de HTML, CSS, JavaScript.**
 
 
 <p align="center">
